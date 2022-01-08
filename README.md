@@ -9,7 +9,7 @@ For initial setup, you need
 
 Generated instruction: 
 
-"turn left, walk straight down the left side of the painting. walk forward. exit the living room to the dining room. go out of dining room into the entryway walking with the sofa chair on your left. wait there"
+> turn left, walk straight down the left side of the painting. walk forward. exit the living room to the dining room. go out of dining room into the entryway walking with the sofa chair on your left. wait there
 
 Sequence:
 
