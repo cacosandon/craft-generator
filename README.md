@@ -1,4 +1,4 @@
-# objects-auxiliary
+# Craft instructions generator
 Use of objects metadata on each path for building better instructions
 
 For initial setup, you need
